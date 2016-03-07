@@ -1,0 +1,13 @@
+## Interface: 60200
+## Title: |cff1784d1ElvUI |rDraenorCurrencies
+## Author: Alexstrasza
+## URL: http://www.tukui.org/forums/topic.php?id=66
+## Version: 1.01
+## RequiredDeps: ElvUI
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+currency.lua
+
+## X-Tukui-ProjectID: 000
+## X-Tukui-ProjectFolders: ElvUI_DraenorCurrencies
